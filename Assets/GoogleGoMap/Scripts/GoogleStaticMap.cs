@@ -76,7 +76,7 @@ public class GoogleStaticMap : MonoBehaviour {
 				arterialRoadsStroke, localRoadsFill, localRoadsStroke, transitRoadsFill, waterColor;
 
 	// Set your API KEY here
-	private string _apiKey = "";
+	private string _apiKey = "AIzaSyCG4iWq3ga0tBXaTTgT65hLTyP8HUnYxwA";
 	public string ApiKey {
 		set { 
 			_apiKey = value;
@@ -152,7 +152,7 @@ public class GoogleStaticMap : MonoBehaviour {
 			string url = "";
 			url = baseURL + location + parameters + style + (_apiKey == "" ? "" : "&key=" + _apiKey);
 			findCorners ();
-
+			Debug.Log(url);
 			WWW www = new WWW (url);
 			countOfMapRequests++;
 			// Wait for download to complete

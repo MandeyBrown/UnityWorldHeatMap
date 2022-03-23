@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A788B52F-8814-AEEB-65F9-DDEFB756278C}</ProjectGuid>
+    <ProjectGuid>{AC7DE2C7-1ACC-CD48-8E65-12DC68AB8E15}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -110,15 +110,15 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="FoveClient_CSharp">
- <HintPath>C:/UpdatedMap/Map1/Map1/Assets/FoveUnityPlugin/FoveClient_CSharp.dll</HintPath>
+ <HintPath>C:/Users/HP/Dropbox/My PC (DESKTOP-I66671V)/Desktop/CURC2022Research Project/UnityWorldHeatMap/Assets/FoveUnityPlugin/FoveClient_CSharp.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/UpdatedMap/Map1/Map1/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/HP/Dropbox/My PC (DESKTOP-I66671V)/Desktop/CURC2022Research Project/UnityWorldHeatMap/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{3D7B3E08-49C5-6FA9-284C-8E2A47E3113F}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{34EDED6E-E675-62AD-427C-AC9E05A426D5}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

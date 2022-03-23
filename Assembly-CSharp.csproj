@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3D7B3E08-49C5-6FA9-284C-8E2A47E3113F}</ProjectGuid>
+    <ProjectGuid>{34EDED6E-E675-62AD-427C-AC9E05A426D5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -91,10 +91,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="FoveClient_CSharp">
- <HintPath>C:/UpdatedMap/Map1/Map1/Assets/FoveUnityPlugin/FoveClient_CSharp.dll</HintPath>
+ <HintPath>C:/Users/HP/Dropbox/My PC (DESKTOP-I66671V)/Desktop/CURC2022Research Project/UnityWorldHeatMap/Assets/FoveUnityPlugin/FoveClient_CSharp.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/UpdatedMap/Map1/Map1/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/HP/Dropbox/My PC (DESKTOP-I66671V)/Desktop/CURC2022Research Project/UnityWorldHeatMap/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
