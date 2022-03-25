@@ -76,7 +76,7 @@ public class GoogleStaticMap : MonoBehaviour {
 				arterialRoadsStroke, localRoadsFill, localRoadsStroke, transitRoadsFill, waterColor;
 
 	// Set your API KEY here
-	private string _apiKey = "";
+	private string _apiKey = "AIzaSyARK3UjV1frNuc9rw_bnTMmHZNZPDeuGsY";
 	public string ApiKey {
 		set { 
 			_apiKey = value;
